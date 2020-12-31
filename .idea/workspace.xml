@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d6edd8c-7daf-4e7c-b6b5-f7257e6f50cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/feature/course/bloc/course_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/feature/course/bloc/course_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/feature/course/bloc/courses_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/feature/course/bloc/index.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/feature/course/model/course.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/feature/course/resource/api_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/feature/course/resource/repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/feature/course/ui/screen/course_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/feature/course/ui/widget/course_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/feature/course/ui/widget/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/common/constant/env.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/common/constant/env.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/common/http/api_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/common/http/api_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/common/route/route_generator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/common/route/route_generator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/common/route/routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/common/route/routes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/home/bloc/book_event.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/home/bloc/book_state.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/home/bloc/books_bloc.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/home/bloc/index.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/home/model/book.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/home/resource/home_api_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/home/resource/home_repository.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/home/ui/screen/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/home/ui/widget/book_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/home/ui/widget/book_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/home/ui/widget/home_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feature/landing/landing_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/feature/landing/landing_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_XL_API_30]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="provider" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mJvWmMYrvceACWYZim5b5I0ssG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\new" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\new\lib\feature\course\ui\widget" />
+      <recent name="G:\new\lib\feature\course\ui\screen" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main_development.dart">
+    <configuration name="main_development.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="buildFlavor" value="development" />
+      <option name="filePath" value="$PROJECT_DIR$/lib/main_development.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_production.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="buildFlavor" value="production" />
+      <option name="filePath" value="$PROJECT_DIR$/lib/main_production.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.main_development.dart" />
+      <item itemvalue="Flutter.main_production.dart" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main_development.dart" />
+        <item itemvalue="Flutter.main_production.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d6edd8c-7daf-4e7c-b6b5-f7257e6f50cc" name="Default Changelist" comment="" />
+      <created>1609224541270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609224541270</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="31" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609397532135">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="31" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1609393433563" />
+    <state x="31" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1600.870@0.30.1600.870" timestamp="1609397532135" />
+    <state x="340" y="204" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609383372290">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="340" y="204" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1609383372290" />
+    <state x="92" y="92" width="1416" height="676" key="AVDManager" timestamp="1609391468718">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="AVDManager/0.0.1600.860@0.0.1600.860" timestamp="1609391468718" />
+    <state x="580" y="217" key="FileChooserDialogImpl" timestamp="1609397408460">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1609390965533" />
+    <state x="580" y="217" key="FileChooserDialogImpl/0.30.1600.870@0.30.1600.870" timestamp="1609397408460" />
+    <state width="1557" height="320" key="GridCell.Tab.0.bottom" timestamp="1609402669049">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="212" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1609396682783" />
+    <state width="1557" height="320" key="GridCell.Tab.0.bottom/0.30.1600.870@0.30.1600.870" timestamp="1609402669049" />
+    <state width="1557" height="320" key="GridCell.Tab.0.center" timestamp="1609402669049">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="212" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1609396682783" />
+    <state width="1557" height="320" key="GridCell.Tab.0.center/0.30.1600.870@0.30.1600.870" timestamp="1609402669049" />
+    <state width="1557" height="320" key="GridCell.Tab.0.left" timestamp="1609402669049">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="212" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1609396682783" />
+    <state width="1557" height="320" key="GridCell.Tab.0.left/0.30.1600.870@0.30.1600.870" timestamp="1609402669049" />
+    <state width="1557" height="320" key="GridCell.Tab.0.right" timestamp="1609402669049">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="212" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1609396682783" />
+    <state width="1557" height="320" key="GridCell.Tab.0.right/0.30.1600.870@0.30.1600.870" timestamp="1609402669049" />
+    <state width="1557" height="302" key="GridCell.Tab.1.bottom" timestamp="1609401973405">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="288" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1609394939323" />
+    <state width="1557" height="302" key="GridCell.Tab.1.bottom/0.30.1600.870@0.30.1600.870" timestamp="1609401973405" />
+    <state width="1557" height="302" key="GridCell.Tab.1.center" timestamp="1609401973404">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="288" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1609394939323" />
+    <state width="1557" height="302" key="GridCell.Tab.1.center/0.30.1600.870@0.30.1600.870" timestamp="1609401973404" />
+    <state width="1557" height="302" key="GridCell.Tab.1.left" timestamp="1609401973404">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="288" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1609394939323" />
+    <state width="1557" height="302" key="GridCell.Tab.1.left/0.30.1600.870@0.30.1600.870" timestamp="1609401973404" />
+    <state width="1557" height="302" key="GridCell.Tab.1.right" timestamp="1609401973405">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="288" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1609394939323" />
+    <state width="1557" height="302" key="GridCell.Tab.1.right/0.30.1600.870@0.30.1600.870" timestamp="1609401973405" />
+    <state x="78" y="30" key="SettingsEditor" timestamp="1609397526810">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="78" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1609231633550" />
+    <state x="78" y="30" key="SettingsEditor/0.30.1600.870@0.30.1600.870" timestamp="1609397526810" />
+    <state x="369" y="191" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609401834192">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="369" y="159" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1609394789315" />
+    <state x="369" y="191" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.30.1600.870@0.30.1600.870" timestamp="1609401834192" />
+    <state x="507" y="0" width="585" height="860" key="find.popup" timestamp="1609385089704">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="0" width="585" height="860" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1609385089704" />
+    <state x="456" y="213" key="run.anything.popup" timestamp="1609402592217">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="456" y="213" key="run.anything.popup/0.30.1600.870@0.30.1600.870" timestamp="1609402592217" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/common/http/api_provider.dart</url>
+          <line>48</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/app/app.dart</url>
+          <line>69</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/feature/course/bloc/course_state.dart</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/feature/course/resource/api_provider.dart</url>
+          <line>19</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint suspend="THREAD" type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
